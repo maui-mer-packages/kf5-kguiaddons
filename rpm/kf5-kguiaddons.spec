@@ -9,7 +9,7 @@ Name:       kf5-kguiaddons
 # << macros
 
 Summary:    KDE Frameworks 5 Tier 1 addon with various classes on top of QtGui
-Version:    4.100.0
+Version:    5.0.0
 Release:    1
 Group:      System/Base
 License:    GPLv2+
